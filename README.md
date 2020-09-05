@@ -42,5 +42,7 @@
 + [2005. 파스칼의 삼각형](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel02/no2005.java "2005. 파스칼의 삼각형")
 + [2001. 파리 퇴치](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel02/no2001.java "2001. 파리 퇴치")
 + [1959. 두 개의 숫자열](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel02/no1959.java "1959. 두 개의 숫자열")
++ [1945. 간단한 소인수분해](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel02/no1945.java "1945. 간단한 소인수분해")
++ [1946. 간단한 압축 풀기](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel02/no1946.java "1946. 간단한 압축 풀기")
 
 > 진행 중..
