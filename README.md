@@ -1,7 +1,8 @@
 # SW Expert Academy 문제 풀이
   
 + 코딩테스트를 준비하기 위해 [SW Expert Academy](https://swexpertacademy.com/main/code/problem/problemList.do "SW Expert Academy") 문제 풀이를 시작한다.
-+ Java 언어로 풀고, [블로그](https://kimkkoo.tistory.com/ "내 블로그")와 Github에 정리한다.  
++ 문제를 풀고, 풀이를 [블로그](https://kimkkoo.tistory.com/ "내 블로그")와 Github에 정리한다.  
++ 언어는 **Java**를 사용한다.
 
 ## 분류
 #### Difficulty Level 01
@@ -43,6 +44,11 @@
 + [2001. 파리 퇴치](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel02/no2001.java "2001. 파리 퇴치")
 + [1959. 두 개의 숫자열](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel02/no1959.java "1959. 두 개의 숫자열")
 + [1945. 간단한 소인수분해](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel02/no1945.java "1945. 간단한 소인수분해")
-+ [1946. 간단한 압축 풀기](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel02/no1946.java "1946. 간단한 압축 풀기")
++ [1946. 간단한 압축 풀기](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel02/no1946.java "1946. 간단한 압축 풀기")  
+
+#### Difficulty Level 03
+>
++ [1206. [S/W 문제해결 기본] 1일차 - View](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel03/no1206.java "1206. [S/W 문제해결 기본] 1일차 - View")  
++ [1208. [S/W 문제해결 기본] 1일차 - Flatten](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel03/no1208.java "1208. [S/W 문제해결 기본] 1일차 - Flatten")    
 
 > 진행 중..
