@@ -51,7 +51,7 @@
 >
 + [1206. [S/W 문제해결 기본] 1일차 - View](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel03/no1206.java "1206. [S/W 문제해결 기본] 1일차 - View")  
 + [1208. [S/W 문제해결 기본] 1일차 - Flatten](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel03/no1208.java "1208. [S/W 문제해결 기본] 1일차 - Flatten")    
-+ [1209. [S/W 문제해결 기본] 2일차 - Sum] 1일차 - Flatten](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel03/no1209.java "1209. [S/W 문제해결 기본] 2일차 - Sum")  
++ [1209. [S/W 문제해결 기본] 2일차 - Sum](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel03/no1209.java "1209. [S/W 문제해결 기본] 2일차 - Sum")  
 + [10505. 소득 불균형](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel03/no10505.java "10505. 소득 불균형")
 + [10200. 구독자 전쟁](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel03/no10200.java "10200. 구독자 전쟁")
   
