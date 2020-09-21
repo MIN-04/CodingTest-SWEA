@@ -57,5 +57,6 @@
 + [9940. 순열1](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel03/no9940.java "9940. 순열1")
 + [1213. [S/W 문제해결 기본] 3일차 - String](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel03/no1213.java "1213. [S/W 문제해결 기본] 3일차 - String")
 + [1289. 원재의 메모리 복구하기](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel03/no1289.java "1289. 원재의 메모리 복구하기")
++ [1215. [S/W 문제해결 기본] 3일차 - 회문1](https://github.com/MIN-04/CodingTest-SWEA/blob/master/DLevel03/no1215.java "1215. [S/W 문제해결 기본] 3일차 - 회문1")
 
 > 진행 중..
